@@ -1,2 +1,2 @@
 ﻿# LIGN167-Final-Project
-
+In this project, we train a convolutional neural network (CNN) to perform sentiment analysis on a dataset of tweets. The goal of the CNN is to learn a mapping from tweet vectors to sentiment labels, where the tweet vectors are created by applying a bag-of-words model to the preprocessed tweets, and the sentiment labels are binary values that represent the positive or negative sentiment of the tweets.
